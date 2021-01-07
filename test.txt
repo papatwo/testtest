@@ -3,3 +3,4 @@ Test 2
 Test 3
 Add one more line
 Git is testing
+Stupid 
