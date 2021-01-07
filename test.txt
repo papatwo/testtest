@@ -4,3 +4,4 @@ Test 3
 Add one more line
 Git is testing
 Stupid 
+Created new branch
