@@ -6,3 +6,4 @@ Git is testing
 Stupid 
 Created new branch is quick
 No ff test
+Check stash function
